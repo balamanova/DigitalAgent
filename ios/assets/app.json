@@ -1,0 +1,10 @@
+{
+  "name": "Navigation",
+  "displayName": "Navigation", 
+  "entryPoint": "./index.js",
+  "description" : "App for checking Concetation",
+  "version" : "1.0.0", 
+  "android" : {
+    "package" : "com.kz.digitalagent"
+  }
+}
